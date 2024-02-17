@@ -46,7 +46,7 @@ npm install<br>
 To run My Awesome Application, use the following command:<br>
 npm start<br>
 This will start the application and it will be accessible via your web browser at http://localhost:5000.<br>
-<h2>Installation</h2><br>
+<h2>Testing</h2><br>
 Postman
 
 
