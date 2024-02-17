@@ -37,14 +37,14 @@ Welcome to My Blog App Backend This README.md file will guide you through the pr
 <h2>Installation</h2><br>
 To install My Awesome Application, follow these steps:<br>
 1 - Clone the repository to your local machine:<br>
-git clone https://github.com/AymaneMehdi/ark-x-academy.git<br>
+`git clone https://github.com/AymaneMehdi/ark-x-academy.git`<br>
 2 - Navigate to the project directory:<br>
-cd Blog-App-Backend<br>
+`cd Blog-App-Backend`<br>
 3 - Install the dependencies:<br>
-npm install<br>
+`npm install`<br>
 <h2>Running the Application</h2><br>
 To run My Awesome Application, use the following command:<br>
-npm start<br>
+`npm start`<br>
 This will start the application and it will be accessible via your web browser at http://localhost:5000.<br>
 <h2>Testing</h2><br>
 Postman
