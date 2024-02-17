@@ -33,3 +33,21 @@ Develop a simple blog backend with the following features:<br><br>
 * A README.md file documenting how to install, run, and test your application.<br><br>
 This challenge will help you understand the basics of building a backend with Node.js and Express, using JSON for data storage, and implementing the MVC architecture. Good luck!<br><br>
 <h1>Blog App Backend</h1><br>
+Welcome to My Blog App Backend This README.md file will guide you through the process of installing, running, and testing the application.<br>
+<h2>Installation</h2><br>
+To install My Awesome Application, follow these steps:<br>
+1 - Clone the repository to your local machine:<br>
+git clone https://github.com/AymaneMehdi/ark-x-academy.git<br>
+2 - Navigate to the project directory:<br>
+cd Blog-App-Backend<br>
+3 - Install the dependencies:<br>
+npm install<br>
+<h2>Running the Application</h2><br>
+To run My Awesome Application, use the following command:<br>
+npm start<br>
+This will start the application and it will be accessible via your web browser at http://localhost:5000.<br>
+<h2>Installation</h2><br>
+Postman
+
+
+
