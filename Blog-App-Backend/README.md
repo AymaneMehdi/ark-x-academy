@@ -44,7 +44,7 @@ To install My Awesome Application, follow these steps:<br>
 `npm install`<br>
 <h2>Running the Application</h2><br>
 To run My Awesome Application, use the following command:<br>
-`npm start`<br>
+\`npm start\`<br>
 This will start the application and it will be accessible via your web browser at http://localhost:5000.<br>
 <h2>Testing</h2><br>
 Postman
