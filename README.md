@@ -1,1 +1,0 @@
-# ark-x-academy
