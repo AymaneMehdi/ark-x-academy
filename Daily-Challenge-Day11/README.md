@@ -10,9 +10,6 @@ Now, let's write a series of functions in a Node.js file that perform basic math
 2 - Open your preferred text editor or IDE.<br>
 3 - Create a new file and save it with a ".js" extension. For example, you can name it "mathOperations.js".<br>
 4 - Write the functions in the "mathOperations.js" file. Here's an example code:<br>
-<code>function addNumbers(num1, num2) {
- return num1 + num2;
-}<code><br>
 5 - Save the "mathOperations.js" file.<br>
 6 - Open your terminal or command prompt and navigate to the folder containing the "mathOperations.js" file.<br>
 7 - Run the command node mathOperations.js<br>
