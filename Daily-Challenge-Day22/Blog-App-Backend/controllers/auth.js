@@ -3,11 +3,13 @@ const data = require("../models/data");
 const dotenv = require('dotenv');
 const jwt = require('jsonwebtoken');
 dotenv.config();
+
 const readline = require('readline');
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
 });
+
 exports.Login = async (req,res) => {
   const users = await data.readUsers();
   const input = () => {

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express.js": "^1.0.0",
+    "mongod": "^2.0.0",
+    "mongodb": "^6.3.0",
+    "node": "^21.6.2",
+    "nodejs": "^0.0.0"
+  }
+}
